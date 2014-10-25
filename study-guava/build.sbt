@@ -10,5 +10,6 @@ scalaVersion := "2.11.1"
 
 libraryDependencies ++= Seq(
   "com.google.guava" % "guava" % "18.0",
-  "org.apache.commons" % "commons-lang3" % "3.3.2"
+  "org.apache.commons" % "commons-lang3" % "3.3.2",
+  "com.typesafe.akka" % "akka-actor_2.10" % "2.3.6"
 )

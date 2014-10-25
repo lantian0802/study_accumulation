@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="myStudy"
+		module="study-guava$sources_javadoc_2.11"
+		revision="1.0-SNAPSHOT"
+		conf="test-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20141025155620"/>
+	<dependencies>
+		<module organisation="com.typesafe.akka" name="akka-actor_2.10">
+			<revision name="2.3.6" status="release" pubdate="20140905143344" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="3">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2687" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\ivy-2.3.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.3.6/akka-actor_2.10-2.3.6.pom"/>
+				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="test-internal, test, optional, compile, provided, runtime" rev="2.3.6" rev-constraint-default="2.3.6" rev-constraint-dynamic="2.3.6" callerrev="1.0-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="akka-actor_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="330314" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\srcs\akka-actor_2.10-2.3.6-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.3.6/akka-actor_2.10-2.3.6-sources.jar"/>
+					</artifact>
+					<artifact name="akka-actor_2.10" type="jar" ext="jar" status="no" details="" size="2583959" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.3.6/akka-actor_2.10-2.3.6.jar"/>
+					</artifact>
+					<artifact name="akka-actor_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2940138" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\docs\akka-actor_2.10-2.3.6-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.3.6/akka-actor_2.10-2.3.6-javadoc.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe" name="config">
+			<revision name="1.2.1" status="release" pubdate="20140502225416" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typesafehub/config" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="4">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2768" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe\config\ivy-1.2.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.pom"/>
+				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="test-internal, test, optional, compile, provided, runtime" rev="1.2.1" rev-constraint-default="1.2.1" rev-constraint-dynamic="1.2.1" callerrev="1.0-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="config" type="jar" ext="jar" status="no" details="" size="219554" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe\config\jars\config-1.2.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar"/>
+					</artifact>
+					<artifact name="config" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="147508" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe\config\docs\config-1.2.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar"/>
+					</artifact>
+					<artifact name="config" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="132611" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe\config\srcs\config-1.2.1-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-lang3">
+			<revision name="3.3.2" status="release" pubdate="20140406202129" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="2">
+				<metadata-artifact status="no" details="" size="10508" time="0" location="G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\ivy-3.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom"/>
+				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="test-internal, test, optional, compile, provided, runtime" rev="3.3.2" rev-constraint-default="3.3.2" rev-constraint-dynamic="3.3.2" callerrev="1.0-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="commons-lang3" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1074965" time="0" location="G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\docs\commons-lang3-3.3.2-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-javadoc.jar"/>
+					</artifact>
+					<artifact name="commons-lang3" type="jar" ext="jar" status="no" details="" size="412739" time="0" location="G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"/>
+					</artifact>
+					<artifact name="commons-lang3" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="470961" time="0" location="G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\srcs\commons-lang3-3.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.google.guava" name="guava">
+			<revision name="18.0" status="release" pubdate="20140826024834" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="1">
+				<metadata-artifact status="no" details="" size="5815" time="0" location="G:\study\scala_code_study\ivy\cache\com.google.guava\guava\ivy-18.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom"/>
+				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="test-internal, test, optional, compile, provided, runtime" rev="18.0" rev-constraint-default="18.0" rev-constraint-dynamic="18.0" callerrev="1.0-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="guava" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="5185956" time="0" location="G:\study\scala_code_study\ivy\cache\com.google.guava\guava\docs\guava-18.0-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0-javadoc.jar"/>
+					</artifact>
+					<artifact name="guava" type="jar" ext="jar" status="no" details="" size="2256213" time="0" location="G:\study\scala_code_study\ivy\cache\com.google.guava\guava\jars\guava-18.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar"/>
+					</artifact>
+					<artifact name="guava" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1277909" time="0" location="G:\study\scala_code_study\ivy\cache\com.google.guava\guava\srcs\guava-18.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.1" status="release" pubdate="20140520160221" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2685" time="0" location="G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\ivy-2.11.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.pom"/>
+				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="test-internal, test, optional, compile, provided, runtime" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="1.0-SNAPSHOT" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/"/>
+				<artifacts>
+					<artifact name="scala-library" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="20377790" time="0" location="G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\docs\scala-library-2.11.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-javadoc.jar"/>
+					</artifact>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="896552" time="0" location="G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\srcs\scala-library-2.11.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar"/>
+					</artifact>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5538130" time="0" location="G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

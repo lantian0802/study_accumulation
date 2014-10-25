@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to G:\my_study_project\study_accumulation\study-akka\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1eb27fa, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\resources.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\rt.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\sunrsasign.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\jsse.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\jce.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\charsets.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\classes;G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	G:\my_study_project\study_accumulation\study-akka\target\scala-2.11\classes;G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.6.jar;G:\study\scala_code_study\ivy\cache\com.typesafe\config\bundles\config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.105444764 s[0m
+[0m[[0mdebug[0m] [0mInvalidating G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala)[0m
+[0m[[0mdebug[0m] [0mThe G:\my_study_project\study_accumulation\study-akka\src\main\scala\TestAkka.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, TestAkka, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
