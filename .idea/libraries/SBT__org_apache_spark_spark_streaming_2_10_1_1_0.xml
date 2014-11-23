@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.spark:spark-streaming_2.10:1.1.0">
+    <CLASSES>
+      <root url="jar://G:/study/scala_code_study/ivy/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

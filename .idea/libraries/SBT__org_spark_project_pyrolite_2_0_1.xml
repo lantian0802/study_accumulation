@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.spark-project:pyrolite:2.0.1">
+    <CLASSES>
+      <root url="jar://G:/study/scala_code_study/ivy/cache/org.spark-project/pyrolite/jars/pyrolite-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

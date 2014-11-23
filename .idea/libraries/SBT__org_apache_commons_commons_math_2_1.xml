@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.commons:commons-math:2.1">
+    <CLASSES>
+      <root url="jar://G:/study/scala_code_study/ivy/cache/org.apache.commons/commons-math/jars/commons-math-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

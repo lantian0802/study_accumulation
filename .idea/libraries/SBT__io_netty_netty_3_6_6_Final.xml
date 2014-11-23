@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: io.netty:netty:3.6.6.Final">
+    <CLASSES>
+      <root url="jar://G:/study/scala_code_study/ivy/cache/io.netty/netty/bundles/netty-3.6.6.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.zookeeper:zookeeper:3.4.5">
+    <CLASSES>
+      <root url="jar://G:/study/scala_code_study/ivy/cache/org.apache.zookeeper/zookeeper/jars/zookeeper-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
