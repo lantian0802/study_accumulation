@@ -9,8 +9,10 @@ logLevel := Level.Warn
 resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
 
 // Use the Play sbt plugin for Play projects
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.3.3")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.3.4" exclude("org.scala-lang","scala-library"))
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-less" % "1.0.0")
+addSbtPlugin("com.typesafe.sbt" % "sbt-less" % "1.0.0" exclude("org.scala-lang","scala-library"))
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-coffeescript" % "1.0.0")
+addSbtPlugin("com.typesafe.sbt" % "sbt-coffeescript" % "1.0.0" exclude("org.scala-lang","scala-library"))
+
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.4")

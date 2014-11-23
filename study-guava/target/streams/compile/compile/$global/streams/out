@@ -1,28 +1,28 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
 [0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 4 Scala sources to G:\my_study_project\study_accumulation\study-guava\target\scala-2.11\classes...[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to G:\github_proj\study_accumulation\study-guava\target\scala-2.11\classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 1a34f90, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 8ed94b, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\resources.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\rt.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\sunrsasign.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\jsse.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\jce.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\lib\charsets.jar;D:\softwareinstall\Java\jdk1.6.0_10\jre\classes;G:\study\scala_code_study\ivy\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	G:\my_study_project\study_accumulation\study-guava\target\scala-2.11\classes;G:\study\scala_code_study\ivy\cache\com.google.guava\guava\bundles\guava-18.0.jar;G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.2.jar;G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.6.jar;G:\study\scala_code_study\ivy\cache\com.typesafe\config\bundles\config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	G:\github_proj\study_accumulation\study-guava\target\scala-2.11\classes;G:\study\scala_code_study\ivy\cache\com.google.guava\guava\bundles\guava-18.0.jar;G:\study\scala_code_study\ivy\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.2.jar;G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.6.jar;G:\study\scala_code_study\ivy\cache\com.typesafe\config\bundles\config-1.2.1.jar[0m
 [0m[[33mwarn[0m] [0mClass javax.annotation.Nullable not found - continuing with a stub.[0m
 [0m[[33mwarn[0m] [0mClass javax.annotation.Nullable not found - continuing with a stub.[0m
 [0m[[33mwarn[0m] [0mClass javax.annotation.Nullable not found - continuing with a stub.[0m
@@ -52,38 +52,24 @@
 [0m[[33mwarn[0m] [0mClass javax.annotation.CheckReturnValue not found - continuing with a stub.[0m
 [0m[[33mwarn[0m] [0mClass javax.annotation.CheckReturnValue not found - continuing with a stub.[0m
 [0m[[33mwarn[0m] [0m28 warnings found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.818566872 s[0m
-[0m[[0mdebug[0m] [0mInvalidating G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala)[0m
-[0m[[0mdebug[0m] [0mIncluding G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala by G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala, G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
-[0m[[0mdebug[0m] [0mThe G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, AbstractLoadCache, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, cache, isInstanceOf, <init>, getData, ==, setCache, clone, getCache, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala: Set(AbstractLoadCache, <init>, getCache)[0m
-[0m[[0mdebug[0m] [0mInvalidating G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala)[0m
-[0m[[0mdebug[0m] [0mThe G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, expireAfterWrite, ==, clone, maximumSize, CacheConfig, toString, !=, getClass, ne, refreshAfterWrite, eq, ##, finalize, hashCode.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala: Set(maximumSize, CacheConfig, refreshAfterWrite)[0m
-[0m[[0mdebug[0m] [0mInvalidating G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
-[0m[[0mdebug[0m] [0mThe G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, cache, key, isInstanceOf, <init>, getData, ==, setCache, clone, getCache, counter, toString, !=, getClass, LocalTestCache, ne, eq, ##, finalize, hashCode.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mInvalidating G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
-[0m[[0mdebug[0m] [0mThe G:\my_study_project\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, testSplit, blankHandle, ==, clone, testSplit2, toString, !=, StringTest, getClass, testStrJoin, ne, eq, ##, finalize, hashCode, testSuffixPreffix, autoFullStr.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mScala compilation took 10.597350182 s[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala by G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala, G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\CacheConfig.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\AbstractLoadCache.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_cache\LocalTestCache.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(G:\github_proj\study_accumulation\study-guava\src\main\scala\guava_string\StringTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
 [0m[[0mdebug[0m] [0mNew invalidations:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m

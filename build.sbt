@@ -14,7 +14,13 @@ lazy val study_guava = Project(id = "study-guava",base = file("study-guava"))
 
 lazy val study_akka = Project(id = "study-akka",base = file("study-akka"))
 
-lazy val root = Project(id = "study_accumulation",base = file(".")) aggregate(study_guava, study_akka)
+lazy val study_sparkstreaming = Project(id="study-sparkstreaming",base=file("study-sparkstreaming"))
+
+lazy val root = Project(id = "study_accumulation",base = file(".")).aggregate(study_guava, study_akka, study_sparkstreaming)
+
+net.virtualvoid.sbt.graph.Plugin.graphSettings
+
+
 
 
 

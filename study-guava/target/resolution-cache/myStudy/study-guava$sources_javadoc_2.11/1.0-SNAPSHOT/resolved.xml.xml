@@ -4,7 +4,7 @@
 		module="study-guava$sources_javadoc_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20141025155620"
+		publication="20141122164550"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

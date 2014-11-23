@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20141025155614"/>
+		date="20141122164550"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-actor_2.11">
 			<revision name="2.3.4" status="release" pubdate="20140630200136" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="1">
@@ -15,13 +15,13 @@
 				<metadata-artifact status="no" details="" size="2687" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\ivy-2.3.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.4/akka-actor_2.11-2.3.4.pom"/>
 				<caller organisation="myStudy" name="study-guava$sources_javadoc_2.11" conf="optional, compile, provided, compile-internal" rev="2.3.4" rev-constraint-default="2.3.4" rev-constraint-dynamic="2.3.4" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="akka-actor_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="327598" time="2741" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\srcs\akka-actor_2.11-2.3.4-sources.jar">
+					<artifact name="akka-actor_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="327598" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\srcs\akka-actor_2.11-2.3.4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.4/akka-actor_2.11-2.3.4-sources.jar"/>
 					</artifact>
 					<artifact name="akka-actor_2.11" type="jar" ext="jar" status="no" details="" size="2516692" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.4.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.4/akka-actor_2.11-2.3.4.jar"/>
 					</artifact>
-					<artifact name="akka-actor_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="2356009" time="2929" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\docs\akka-actor_2.11-2.3.4-javadoc.jar">
+					<artifact name="akka-actor_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2356009" time="0" location="G:\study\scala_code_study\ivy\cache\com.typesafe.akka\akka-actor_2.11\docs\akka-actor_2.11-2.3.4-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.4/akka-actor_2.11-2.3.4-javadoc.jar"/>
 					</artifact>
 				</artifacts>
