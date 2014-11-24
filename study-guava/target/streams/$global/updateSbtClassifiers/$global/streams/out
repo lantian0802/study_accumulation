@@ -4399,9 +4399,9 @@
 [debug] 	[NOT REQUIRED] asm#asm;3.1!asm.jar
 [debug] 	[NOT REQUIRED] jfree#jcommon;1.0.12!jcommon.jar
 [debug] 	[NOT REQUIRED] jfree#jfreechart;1.0.8a!jfreechart.jar
-[debug] :: resolution report :: resolve 2559ms :: artifacts dl 82ms
+[debug] :: resolution report :: resolve 5568ms :: artifacts dl 331ms
 [debug] 	report for myStudy#study-guava$sbt_2.11;1.0-SNAPSHOT default produced in G:\github_proj\study_accumulation\study-guava\target\resolution-cache\reports\myStudy-study-guava$sbt_2.11-default.xml
-[debug] 	resolve done (2559ms resolve - 82ms download)
+[debug] 	resolve done (5568ms resolve - 331ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: myStudy#study-guava$sources_2.11;1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -5929,6 +5929,6 @@
 [debug] 	[NOT REQUIRED] com.typesafe.sbt#sbt-coffeescript;1.0.0!sbt-coffeescript.jar(src)
 [debug] 	[NOT REQUIRED] net.virtual-void#sbt-dependency-graph;0.7.4!sbt-dependency-graph.jar(src)
 [debug] 	[NOT REQUIRED] com.github.mdr#ascii-graphs_2.10;0.0.3!ascii-graphs_2.10.jar(src)
-[debug] :: resolution report :: resolve 2917ms :: artifacts dl 235ms
+[debug] :: resolution report :: resolve 3878ms :: artifacts dl 178ms
 [debug] 	report for myStudy#study-guava$sources_2.11;1.0-SNAPSHOT default produced in G:\github_proj\study_accumulation\study-guava\target\resolution-cache\reports\myStudy-study-guava$sources_2.11-default.xml
-[debug] 	resolve done (2917ms resolve - 235ms download)
+[debug] 	resolve done (3878ms resolve - 178ms download)

@@ -4,7 +4,7 @@
 		module="study-guava$sources_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20141122164524"
+		publication="20141124112433"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
@@ -173,6 +173,9 @@
 		</dependency>
 		<dependency org="args4j" name="args4j" rev="2.0.16" transitive="false" conf="default->default(compile)">
 			<artifact name="args4j" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		</dependency>
+		<dependency org="com.google.code.findbugs" name="jsr305" rev="1.3.9" transitive="false" conf="default->default(compile)">
+			<artifact name="jsr305" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 		<dependency org="com.google.guava" name="guava" rev="16.0.1" transitive="false" conf="default->default(compile)">
 			<artifact name="guava" type="src" ext="jar" conf="sources" e:classifier="sources"/>

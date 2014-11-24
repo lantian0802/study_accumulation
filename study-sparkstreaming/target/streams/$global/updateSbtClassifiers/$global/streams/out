@@ -4399,9 +4399,9 @@
 [debug] 	[NOT REQUIRED] asm#asm;3.1!asm.jar
 [debug] 	[NOT REQUIRED] jfree#jcommon;1.0.12!jcommon.jar
 [debug] 	[NOT REQUIRED] jfree#jfreechart;1.0.8a!jfreechart.jar
-[debug] :: resolution report :: resolve 2268ms :: artifacts dl 83ms
+[debug] :: resolution report :: resolve 5015ms :: artifacts dl 265ms
 [debug] 	report for myStudy#study-sparkstreaming$sbt_2.10;1.0-SNAPSHOT default produced in G:\github_proj\study_accumulation\study-sparkstreaming\target\resolution-cache\reports\myStudy-study-sparkstreaming$sbt_2.10-default.xml
-[debug] 	resolve done (2268ms resolve - 83ms download)
+[debug] 	resolve done (5015ms resolve - 265ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: myStudy#study-sparkstreaming$sources_2.10;1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -5929,6 +5929,6 @@
 [debug] 	[NOT REQUIRED] com.typesafe.sbt#sbt-coffeescript;1.0.0!sbt-coffeescript.jar(src)
 [debug] 	[NOT REQUIRED] net.virtual-void#sbt-dependency-graph;0.7.4!sbt-dependency-graph.jar(src)
 [debug] 	[NOT REQUIRED] com.github.mdr#ascii-graphs_2.10;0.0.3!ascii-graphs_2.10.jar(src)
-[debug] :: resolution report :: resolve 1417ms :: artifacts dl 75ms
+[debug] :: resolution report :: resolve 3937ms :: artifacts dl 211ms
 [debug] 	report for myStudy#study-sparkstreaming$sources_2.10;1.0-SNAPSHOT default produced in G:\github_proj\study_accumulation\study-sparkstreaming\target\resolution-cache\reports\myStudy-study-sparkstreaming$sources_2.10-default.xml
-[debug] 	resolve done (1417ms resolve - 75ms download)
+[debug] 	resolve done (3937ms resolve - 211ms download)

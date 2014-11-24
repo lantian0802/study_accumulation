@@ -4,7 +4,7 @@
 		module="study-sparkstreaming$sbt_2.10"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20141122164517"
+		publication="20141124112508"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="default"
 		confs="default"
-		date="20141122164528"/>
+		date="20141124112501"/>
 	<dependencies>
 		<module organisation="net.virtual-void" name="sbt-dependency-graph">
 			<revision name="0.7.4" status="release" pubdate="20130722222754" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/jrudolph/sbt-dependency-graph" extra-sbtVersion="0.13" extra-scalaVersion="2.10" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="162">
